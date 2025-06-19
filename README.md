@@ -21,3 +21,5 @@
 ### NBA Web Scrapping Data
 This is the first part of a future machine learning project of MVP prediction. For the web scrapping project, I scrapped data from multiple sections of basketball-reference to get stats from mvp candidates, all nba players and team standings. To gather all the data I've had to use Python libraries such as Pandas, BeautifulSoup and Selenium. All this was done with Jupyter Notebooks in VS Code.
 
+[NBA Web Scrapping Project Files](https://github.com/longmiguelf/nba_web_scrapping)
+
